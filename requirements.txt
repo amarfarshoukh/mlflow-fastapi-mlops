@@ -1,0 +1,6 @@
+# Keep training, Docker build, and inference on the same MLflow/sklearn versions.
+mlflow==2.22.5
+scikit-learn==1.6.1
+numpy==1.26.4
+fastapi==0.116.1
+uvicorn==0.35.0
